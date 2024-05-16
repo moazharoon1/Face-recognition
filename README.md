@@ -9,7 +9,8 @@ OpenCV
 dlib
 face_recognition
 
-Versions of these libraries may depend on the version of Python you are using. I used Python 3.10 and used opencv 4.9.0.80, dlib 19.22.99 and face_recognition 1.3.0.
+**Versions of these libraries may depend on the version of Python you are using.**
+I used Python 3.10 and used opencv 4.9.0.80, dlib 19.22.99 and face_recognition 1.3.0.
 
 ### Installing dlib
 - Install CMake: Ensure CMake is installed on your system and added to PATH. It can be found in the link https://cmake.org/download/.
